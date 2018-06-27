@@ -32,7 +32,7 @@ Here is how to clone:
 
 2. Go to the forked repo in YOUR Git Hub account.  On the right hand side of the page you will see a green button with "Clone or Download".  CLick the green button and copy the url link,
 
-3. Go to GitBash (or VSC if using "integrated termnal") and type: 'git clone -paste url here-' and press enter.  
+3. Go to GitBash (or VSC if using "integrated termnal") and type: 'git clone" and then paste the url.  Press enter.  
 
 4. Congratulations!  Now you have a working branch on your local machine.
 
@@ -42,9 +42,9 @@ In order to make React work we need to install some Yarn dependencies.
 
 1.  Go back to GitBash or VSC.  You should still be root folder directory for the cloned project.  Navigate to the Showcase folder in the directry by typing: 'cd showcase' 
 
-2. Type <yarn install>.  This will take a few minutes as yarn builds your dependencies.  
+2. Type 'yarn install'.  This will take a few minutes as yarn builds your dependencies.  
 
-3. When the install is finished, you can type <yarn start>.  This will run the app and open it in your browser.
+3. When the install is finished, you can type 'yarn start'.  This will run the app and open it in your browser.
 
 4. Congratulations!  Now you can start coding!
 
