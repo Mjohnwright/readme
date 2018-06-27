@@ -24,7 +24,7 @@ Here is how to fork:
 
 ## Clone
 
-In order to make changes and addition to the code, you must clone it to your local machine.
+In order to make changes and additions to the code, you must clone it to your local machine.
 
 Here is how to clone:
 
@@ -32,7 +32,7 @@ Here is how to clone:
 
 2. Go to the forked repo in YOUR Git Hub account.  On the right hand side of the page you will see a green button with "Clone or Download".  CLick the green button and copy the url link,
 
-3. Go to GitBash (or VSC if using "integrated termnal") and type: 'git clone <paste url here>' and press enter.  
+3. Go to GitBash (or VSC if using "integrated termnal") and type: 'git clone -paste url here-' and press enter.  
 
 4. Congratulations!  Now you have a working branch on your local machine.
 
@@ -40,10 +40,12 @@ Here is how to clone:
 
 In order to make React work we need to install some Yarn dependencies.
 
-1.  Go back to GitBack or VSC.  You should still be root folder directory for the cloned project.  Navigate to the Showcase folder in the directry by typing: <cd showcase/> ,   
+1.  Go back to GitBash or VSC.  You should still be root folder directory for the cloned project.  Navigate to the Showcase folder in the directry by typing: 'cd showcase' 
 
 2. Type <yarn install>.  This will take a few minutes as yarn builds your dependencies.  
 
 3. When the install is finished, you can type <yarn start>.  This will run the app and open it in your browser.
+
+4. Congratulations!  Now you can start coding!
 
 
